@@ -18,4 +18,6 @@ Of course, using your imagination, you can use any other details and software th
 
 The second main element of my project is the ESP32 development board, which is integrated with the Home Assistant smart home via ESPHome. Of course, you can develop software and hardware on ESP8266, Arduino, PlatformIO (developed in Ukraine), etc. 
 
-The very common hx711 board is used as a amplifier/transducer of tension measurement.
+The very common hx711 board is used as an amplifier/converter of tension measurement.
+
+For each axis of the 3d printer we need a separate sensor and signal converter.
