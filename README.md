@@ -43,33 +43,29 @@ Very usefull Andreas Spiess video - https://youtu.be/iywsJB-T-mU?si=le56kaODWxQH
 
 
 The finished device looks like this:
-
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/12dd6dcd-d8ab-4eff-b0ed-8e984e096084)
-
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d0b93d50-dc21-419d-960d-e5a96a806bfb)
-
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/e6addbb5-b1be-4ca5-baee-9ff7c4f23d66)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/6b900b95-a41a-49ab-9de1-971654017edd)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/a66871ea-0ed5-4b11-b925-bd6affa5c24b)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/04eebce9-2494-486e-a39e-1084fabd80ea)
 
 You should print project details is these positions:
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/65d5e6ef-3d8d-483c-b5c2-3fbd52e43ac8)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/a4815c73-1258-43f0-9593-d847d7233491)
 
 Exmple of ESP32 pinout:
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/12619e9a-5670-4e22-94de-9c8e3f7acfea)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/ade8105f-7c18-4662-97ed-e6b359eb6bfc)
 
 Sensor assembly:
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/2c58b598-8fc7-45e8-9ecb-6f70960a87d2)
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/49567609-16a1-4f5a-80b6-3e45fa5f3f5a)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/f620b8c3-9189-41b8-9741-3797119099e8)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/ac63c50f-3bbe-4597-9c55-33b102c43ffe)
 
 Very lazy way for board installation:
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/7a9985f3-29c4-439f-b580-f5ce7045df74)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/03e7e8b3-a43e-4bed-b33e-b700cdcdcf42)
 
 You can reuse factory tension bolt. Put some spacer (for example x4 M4 nuts) for his length betterment.
-
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d5b30114-b923-41c2-8d28-d7ac789c0842)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/fc6d47cd-ba77-4311-8b4f-fc0ab41af8c3)
 
 You can reuse factory roller, but I prefer to use standard from Ali:
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/ef1a2e87-141a-4279-96d5-699660fde878)
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d053ace8-34fb-4e57-bd65-d44c6adc1a0d)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/65f64d7c-4292-4efa-a903-4714fc55fa0e)
+
 
 
 
