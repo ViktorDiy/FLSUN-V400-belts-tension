@@ -62,4 +62,15 @@ Sensor assembly:
 Very lazy way for board installation:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/7a9985f3-29c4-439f-b580-f5ce7045df74)
 
+You can reuse factory tension bolt. Put some spacer (for example x4 M4 nuts) for his length betterment.
+
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d5b30114-b923-41c2-8d28-d7ac789c0842)
+
+You can reuse factory roller, but I prefer to use standard from Ali:
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/ef1a2e87-141a-4279-96d5-699660fde878)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d053ace8-34fb-4e57-bd65-d44c6adc1a0d)
+
+
+
+
 
