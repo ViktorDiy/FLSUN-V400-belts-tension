@@ -28,4 +28,5 @@ The finished device looks like this:
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d0b93d50-dc21-419d-960d-e5a96a806bfb)
 
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/e6addbb5-b1be-4ca5-baee-9ff7c4f23d66)
 
