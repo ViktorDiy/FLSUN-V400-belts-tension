@@ -70,6 +70,7 @@ You can reuse factory tension bolt. Put some spacer (for example x4 M4 nuts) for
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/fc6d47cd-ba77-4311-8b4f-fc0ab41af8c3)
 
 You can reuse factory roller, but I prefer to use standard from Ali:
+
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/65f64d7c-4292-4efa-a903-4714fc55fa0e)
 
 
