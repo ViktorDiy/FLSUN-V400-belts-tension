@@ -18,9 +18,28 @@ Of course, using your imagination, you can use any other details and software th
 
 The second main element of my project is the ESP32 development board, which is integrated with the Home Assistant smart home via ESPHome. Of course, you can develop software and hardware on ESP8266, Arduino, PlatformIO (developed in Ukraine), etc. 
 
-The very common hx711 board is used as an amplifier/converter of tension measurement.
+ESP32 CP2102 Type-C 38 pin development board:
+https://www.aliexpress.com/item/1005001636295529.html
 
+The very common hx711 board is used as an amplifier/converter of tension measurement:
+https://www.aliexpress.com/item/4000089335888.html
+https://esphome.io/components/sensor/hx711
 For each axis of the 3d printer we need a separate sensor and signal converter.
+
+In my project I used 0.96 inch OLED IIC Serial White Display Module 128X64 I2C SSD1306 7 pin:
+https://www.aliexpress.com/item/1005005563780197.html
+
+Tension sensor donor - strain-gauge sensor from canter scales:
+https://www.aliexpress.com/item/1005005627474221.html
+
+
+x3 furniture coupler intersection screw M4 thread and 30mm long:
+https://www.aliexpress.com/item/1005004446281911.html
+https://epicentrk.ua/ua/shop/bolt-styazhnoy-dekorativnyy-mezhsektsionnyy-m4-10-sht-khrom.html
+
+
+Some very usefull Andreas Spiess video - https://youtu.be/iywsJB-T-mU?si=le56kaODWxQH_tsv
+
 
 The finished device looks like this:
 
@@ -29,4 +48,18 @@ The finished device looks like this:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d0b93d50-dc21-419d-960d-e5a96a806bfb)
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/e6addbb5-b1be-4ca5-baee-9ff7c4f23d66)
+
+You should print project details is these positions:
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/65d5e6ef-3d8d-483c-b5c2-3fbd52e43ac8)
+
+Exmple of ESP32 pinout:
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/12619e9a-5670-4e22-94de-9c8e3f7acfea)
+
+Sensor assembly:
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/2c58b598-8fc7-45e8-9ecb-6f70960a87d2)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/49567609-16a1-4f5a-80b6-3e45fa5f3f5a)
+
+Very lazy way for board installation:
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/7a9985f3-29c4-439f-b580-f5ce7045df74)
+
 
