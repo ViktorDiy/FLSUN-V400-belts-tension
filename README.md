@@ -25,6 +25,7 @@ The very common hx711 board is used as an amplifier/converter of tension measure
 https://www.aliexpress.com/item/4000089335888.html
 https://esphome.io/components/sensor/hx711
 For each axis of the 3d printer we need a separate sensor and signal converter.
+You should calibrate all 3 tension sensors separately and put calibration volumes in to ESPHome configuration file.
 
 In my project I used 0.96 inch OLED IIC Serial White Display Module 128X64 I2C SSD1306 7 pin:
 https://www.aliexpress.com/item/1005005563780197.html
