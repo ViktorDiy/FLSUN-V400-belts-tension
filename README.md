@@ -11,7 +11,7 @@ A very large and abrupt decrease in tension (for example, if the belt crash) lea
 
 All the methods of tension measurement known by me at the moment did not satisfy my requests, because, they looks strange from the point of view of metrology. And it is also impossible to implement monitoring, alerting, and integration with a smart home on their basis. 
 
-After my analysis and a number of experiments with tension sencors, up to and including their integration into belt tensioners, I settled on the next most acceptable option from my point of view. 
+After my analysis and a number of experiments with tension sensors, up to and including their integration into belt tensioners, I settled on the next most acceptable option from my point of view. 
 A ready-made tension sensor from hands scales is used as a tension sensor, which can be easily placed in the printer rack. The donor of this sensor is the cheapest and most common canter scales, which can be easily bought on Aliexpress or Amazon or in local stores in your country. You can find a link to it in the general list of parts that I used in the project. 
 
 Of course, using your imagination, you can use any other details and software that are available and convenient for you. I warn you right away that it is unlikely that you will be able to use the electronic part of the canter scales and the display for constant measurement of tension using my method, because the principle of measuring a canter scales is that first the value on the sensor is measured at zero weight, and then the value of the sensor is measured at the weight that you are measuring (if its value remains unchanged). These electronic canter scales cannot constantly measure weight/tension. 
