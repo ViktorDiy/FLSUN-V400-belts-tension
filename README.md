@@ -21,3 +21,10 @@ The second main element of my project is the ESP32 development board, which is i
 The very common hx711 board is used as an amplifier/converter of tension measurement.
 
 For each axis of the 3d printer we need a separate sensor and signal converter.
+
+The finished device looks like this:
+
+https://drive.google.com/file/d/1N2vyWY6H_hoGfmW5tUh0zpw_n833FePp/view?usp=share_link
+
+https://drive.google.com/file/d/1XFkyrqXCGCsI6Bc7VXEjn0Zx2Yn-5hQi/view?usp=share_link
+
