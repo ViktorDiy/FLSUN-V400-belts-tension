@@ -1,0 +1,141 @@
+esphome:
+  name: "esphome-v400-1"
+  friendly_name: ESPHome v400-1 belts tension
+
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "UT6Hl7xblpvfJYi5/yWOfeiL/tuv9YCdFvmdzCQU2yw="
+
+ota:
+
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Esphome-Web-5C516C"
+    password: "OnIf4SgQso0J"
+
+captive_portal:
+
+web_server:
+  port: 80
+#  auth:
+#    username: admin
+#    password: !secret web_server_password
+    
+sensor:
+  - platform: hx711
+    name: "HX711 Tension axis X"
+    id: tension_x
+    dout_pin: GPIO33
+    clk_pin: GPIO32
+    gain: 128
+    update_interval: 5s
+    accuracy_decimals: 3
+
+    filters:
+       - calibrate_linear:
+          - -181055 -> 0
+          - -158311 -> 0.175
+          - -131911 -> 0.795
+          - -34225 -> 2.390
+          - 232401 -> 6.750
+    unit_of_measurement: kg
+  - platform: hx711
+    name: "HX711 Tension axis Y"
+    id: tension_y
+    dout_pin: GPIO26
+    clk_pin: GPIO25
+    gain: 128
+    update_interval: 5s
+    accuracy_decimals: 3
+
+    filters:
+       - calibrate_linear:
+          - -165608 -> 0
+          - -153967 -> 0.175
+          - -115049 -> 0.795
+          - -90785 -> 1.191
+          - 253607 -> 6.750
+    unit_of_measurement: kg
+  - platform: hx711
+    name: "HX711 Tension axis Z"
+    id: tension_z
+    dout_pin: GPIO19
+    clk_pin: GPIO27
+    gain: 128
+    update_interval: 5s
+    accuracy_decimals: 3
+
+    filters:
+       - calibrate_linear:
+          - 117365 -> 0
+          - 129380 -> 0.175
+          - 169380 -> 0.795
+          - 195108 -> 1.191
+          - 549341 -> 6.750
+    unit_of_measurement: kg
+
+
+spi:
+  clk_pin: GPIO18
+  mosi_pin: GPIO23
+
+display:
+  - platform: ssd1306_spi
+    model: "SSD1306 128x64"
+    cs_pin: GPIO5
+    dc_pin: GPIO16
+    reset_pin: GPIO17
+    lambda: |-
+      it.printf(20, 0, id(Roboto15), "Belts tension ");
+      it.printf(0, 20, id(Roboto15), "Axis X: %3.3f kg", id(tension_x).state);
+      it.printf(0, 35, id(Roboto15), "Axis Y: %3.3f kg", id(tension_y).state);
+      it.printf(0, 50, id(Roboto15), "Axis Z: %3.3f kg", id(tension_z).state);
+
+
+font:
+  - file: "Roboto.ttf"
+    id: Roboto20
+    size: 20
+  - file: "Roboto.ttf"
+    id: Roboto15
+    size: 15
+  - file: "Roboto.ttf"
+    id: Roboto10
+    size: 10
+
+switch:
+  - platform: gpio
+    name: "BUZZER"
+    pin: GPIO13
+
+binary_sensor:
+  - platform: gpio
+    pin: GPIO14
+    name: "Filament runout sensor"
+    id: filament_runout
+    device_class: plug
+    filters:
+      - delayed_off: 500ms
+      - delayed_on: 500ms
+#    - platform: gpio
+#    pin: GPIO19
+#    name: "power_coller"
+#    id: power_cooler
+#    device_class: power
+#    filters:
+#      - delayed_off: 500ms
+#      - delayed_on: 500ms
