@@ -24,7 +24,8 @@ For each axis of the 3d printer we need a separate sensor and signal converter.
 
 The finished device looks like this:
 
-https://drive.google.com/file/d/1N2vyWY6H_hoGfmW5tUh0zpw_n833FePp/view?usp=share_link
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/12dd6dcd-d8ab-4eff-b0ed-8e984e096084)
 
-https://drive.google.com/file/d/1XFkyrqXCGCsI6Bc7VXEjn0Zx2Yn-5hQi/view?usp=share_link
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/d0b93d50-dc21-419d-960d-e5a96a806bfb)
+
 
