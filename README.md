@@ -38,7 +38,7 @@ https://www.aliexpress.com/item/1005004446281911.html
 https://epicentrk.ua/ua/shop/bolt-styazhnoy-dekorativnyy-mezhsektsionnyy-m4-10-sht-khrom.html
 
 
-Some very usefull Andreas Spiess video - https://youtu.be/iywsJB-T-mU?si=le56kaODWxQH_tsv
+Very usefull Andreas Spiess video - https://youtu.be/iywsJB-T-mU?si=le56kaODWxQH_tsv
 
 
 The finished device looks like this:
