@@ -1,0 +1,42 @@
+Components and details that you need for FLSUN V400 digital belts tension measuring and monitoring tool:
+	3D printed parts from STL files
+	x3 strain-gauge sensors from canter scales
+https://www.aliexpress.com/item/1005005627474221.html
+	https://prom.ua/ua/p107795567-kanter-elektronnij.html?&primelead=MS41NQ
+	x3 union nuts with M4 thread and 15mm long
+https://www.aliexpress.com/item/1005003339356608.html
+	https://epicentrk.ua/ua/shop/gayka-shestigrannaya-m5-4-sht-expert-fix.html (can’t find M4x15 in Ukraine)
+	x3 nuts with M4 thread
+https://www.aliexpress.com/item/1005002362365303.html
+	https://epicentrk.ua/ua/shop/gayka-shestigrannaya-m4-55-sht-expert-fix.html
+	x3 washers for M4 thread
+https://www.aliexpress.com/item/1005005455895700.html
+	https://epicentrk.ua/ua/shop/shayba-uvelichennaya-m4-50-sht-expert-fix-106401.html
+	x3 nuts with M6 thread
+	https://www.aliexpress.com/item/1005002362365303.html
+	https://epicentrk.ua/ua/shop/gayka-shestigrannaya-m6-40-sht-expert-fix.html
+	x3 furniture coupler intersection screw M4 thread and 30mm long
+https://www.aliexpress.com/item/1005004446281911.html
+	https://epicentrk.ua/ua/shop/bolt-styazhnoy-dekorativnyy-mezhsektsionnyy-m4-10-sht-khrom.html
+	thread die M6
+	https://epicentrk.ua/ua/shop/hubr-plashka-m6-1-0mm-sigma-1604171.html
+	https://epicentrk.ua/ua/shop/nabir-plashok-forsage-6-sht-f-c006-1.html
+	thread lock (red color better)
+https://www.aliexpress.com/item/1005005641513092.html
+	https://epicentrk.ua/ua/shop/fiksatro-rezby-nowax-dlya-razbornikh-soedineniy-nx21139-10-ml.html
+	https://epicentrk.ua/ua/shop/fiksatro-rezby-nowax-dlya-nerazbornykh-soedineniy-nx21129-10-ml.html
+	epoxy or super glue
+	x1 ESP32 CP2102 Type-C 38 pin development board
+https://www.aliexpress.com/item/1005001636295529.html
+https://vseplus.com/product/esp32-devkitc-32d-122250?utm_source=google&utm_medium=cpc&utm_campaign=17083764370&utm_term=&utm_content=596163810844&gclid=Cj0KCQjw756lBhDMARIsAEI0Agm6y1GBMwWOtQ32pR7vwZoIWCTlPgWS3ycVta0NAuB_9ClbKr4Cb5kaAn_UEALw_wcB
+	x3 hx711 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales
+https://www.aliexpress.com/item/4000089335888.html
+https://prom.ua/ua/p1353795525-modul-datchika-vzveshivaniya.html
+
+•	0.96 inch OLED IIC Serial White Display Module 128X64 I2C SSD1306 7 pin
+
+https://www.aliexpress.com/item/1005005563780197.html
+https://myproject.com.ua/096-djujmovij-oled-displej-ua.html?gclid=Cj0KCQjw756lBhDMARIsAEI0AglIVbvI1IjH7EaG4URmjUP6R6BRemkMi5U87tuU84n5qVdQRPkOxAcaAm6KEALw_wcB
+
+•	PCB Breadboard
+
