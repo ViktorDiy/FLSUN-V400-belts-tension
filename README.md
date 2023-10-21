@@ -73,6 +73,15 @@ You can reuse factory roller, but I prefer to use standard from Ali:
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/65f64d7c-4292-4efa-a903-4714fc55fa0e)
 
+I use separate small 5V power adapter for HX711 + ESP32 power supply (connected to 220V in printer) but you can use DC-DC step down converter (24V->5V) or may be take 5V from V400 MCU.
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/2bd933eb-8b4a-40fa-9a95-7c752a29960d)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/b11de6dd-cffc-4b68-996d-7c5e874f130a)
+
+Sensor pinout... For all my 10 scales Red wire = E+, Black = E-, colors for signal wires can be different, if during calibration you load more weight but get less volume - just swap these two wires. Sometimes they are mixed up at the factory in China.
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/f3faf8cc-a0c2-4e51-9446-ec5c8acaa35f)
+
+
+
 
 
 
