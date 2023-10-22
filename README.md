@@ -80,6 +80,9 @@ I use separate small 5V power adapter for HX711 + ESP32 power supply (connected 
 Sensor pinout... For all my 10 scales Red wire = E+, Black = E-, colors for signal wires can be different, if during calibration you load more weight but get less volume - just swap these two wires. Sometimes they are mixed up at the factory in China.
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/f3faf8cc-a0c2-4e51-9446-ec5c8acaa35f)
 
+Sensor calibration pocess:
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/6bdad82d-f583-4592-9a3b-ec90585bf0c1)
+
 
 
 
