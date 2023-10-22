@@ -82,7 +82,8 @@ Sensor pinout... For all my 10 scales Red wire = E+, Black = E-, colors for sign
 
 Sensor calibration pocess:
 
-![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/6bdad82d-f583-4592-9a3b-ec90585bf0c1)
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/42a3d37b-259e-4c40-98c2-3ce7462dc93f)
+
 
 
 
