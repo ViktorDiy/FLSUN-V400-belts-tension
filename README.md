@@ -45,10 +45,12 @@ X*3 brass nuts M4 and 8mm long for Second Edition Roller Fix:
 https://www.aliexpress.com/item/1005006166300597.html
 
 
+
 Very usefull Andreas Spiess video - https://youtu.be/iywsJB-T-mU?si=le56kaODWxQH_tsv
 
 
 Some videos about this system, you can find here - https://www.facebook.com/profile.php?id=100094217897627
+
 
 
 The finished device looks like this:
