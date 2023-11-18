@@ -48,6 +48,9 @@ https://www.aliexpress.com/item/1005006166300597.html
 Very usefull Andreas Spiess video - https://youtu.be/iywsJB-T-mU?si=le56kaODWxQH_tsv
 
 
+Some videos about this system, you can find here - https://www.facebook.com/profile.php?id=100094217897627
+
+
 The finished device looks like this:
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/6b900b95-a41a-49ab-9de1-971654017edd)
