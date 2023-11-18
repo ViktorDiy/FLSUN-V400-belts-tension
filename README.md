@@ -33,10 +33,16 @@ https://www.aliexpress.com/item/1005005563780197.html
 Tension sensor donor - strain-gauge sensor from canter scales:
 https://www.aliexpress.com/item/1005005627474221.html
 
+For Second Edition you can use this sensor:
+https://www.aliexpress.com/item/1005003692319461.html
 
-x3 furniture coupler intersection screw M4 thread and 30mm long:
+
+X*3 furniture coupler intersection screw M4 thread and 30mm long:
 https://www.aliexpress.com/item/1005004446281911.html
 https://epicentrk.ua/ua/shop/bolt-styazhnoy-dekorativnyy-mezhsektsionnyy-m4-10-sht-khrom.html
+
+X*3 brass nuts M4 and 8mm long for Second Edition Roller Fix:
+https://www.aliexpress.com/item/1005006166300597.html
 
 
 Very usefull Andreas Spiess video - https://youtu.be/iywsJB-T-mU?si=le56kaODWxQH_tsv
@@ -83,6 +89,31 @@ Sensor pinout... For all my 10 scales Red wire = E+, Black = E-, colors for sign
 Sensor calibration pocess:
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/42a3d37b-259e-4c40-98c2-3ce7462dc93f)
+
+Second Edition version. More easy to make, cheaper, 100% right geometry (you don't need to fix "china" geometry of donor details).
+
+New sensor:
+
+![V400-0](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/29f76b89-e725-4969-ba11-f82ba062f864)
+
+Position for printing:
+
+![Orca screen](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/f27e0ea7-be53-4066-969a-8eb191820ba5)
+
+First and second versions compare:
+
+![V400-1](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/3cb7f433-2c99-4d03-b844-891dce02fdb9)
+
+![V400-2](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/7388f562-a4f0-4da0-863f-b38f8883637a)
+
+![V400-3](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/fceaf380-4d67-476c-a321-0ec4645b22a1)
+
+![image](https://github.com/ViktorDiy/FLSUN-V400-belts-tension/assets/147925158/6c2d1330-4d69-4a44-b7ae-aca6f12d2f8a)
+
+
+
+
+
 
 
 
